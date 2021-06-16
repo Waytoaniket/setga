@@ -59,7 +59,7 @@
 ## Getting Started
 #### Clone the Repo
 ```
-git clone https://github.com/ADI-KOTKAR/Stega.git
+git clone https://github.com/Waytoaniket/setga.git
 ````
 
 ####  Python 3 
@@ -120,9 +120,11 @@ You can use the sample files for testing in `test_files` folder.
 
 ## Contributors
 
+- **Aniket Gupta** - [Waytoaniket](https://github.com/Waytoaniket)
 - **Aditya Kotkar** - [ADI-KOTKAR](https://github.com/ADI-KOTKAR)
 - **Shreyas Khadapkar** - [shreyaskhadapkar](https://github.com/shreyaskhadapkar)
 - **Praveenkumar Khatri** - [PraveenKhatri](https://github.com/PraveenKhatri)
+
 
 ## License
 
